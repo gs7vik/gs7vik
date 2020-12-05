@@ -6,6 +6,9 @@
 <a href="https://twitter.com/GS_7vik?s=09">
   <img align="left" alt="Satvik G S  Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="https://t.me/GS_7_vik">
+  <img align="left" alt="Satvik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 <br>
 
 
