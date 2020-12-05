@@ -1,9 +1,7 @@
 ### Hallo there, I'm Satvik G S 👋
 
-<!--
-**gs7vik/gs7vik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🌱 I’m currently learning web development, ethical hacking and I have even started exploring competitive coding.
 - 👯 I’m looking to collaborate on web development projects, e-sports. 
@@ -12,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter: LINkedin
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Wish to meet Vladimir Putin once ಠ‿↼ .  
--->
+
