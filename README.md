@@ -1,5 +1,6 @@
 ### Hallo there, I'm Satvik G S  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-📫 How to reach me: <br><a href="https://www.linkedin.com/in/satvik-g-s/">
+📫 How to reach me: <br>
+<a href="https://www.linkedin.com/in/satvik-g-s/">
   <img align="left" alt="Satvik's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/abhisheknaiidu">
