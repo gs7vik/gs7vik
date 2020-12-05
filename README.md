@@ -9,10 +9,8 @@
 <a href="https://t.me/GS_7_vik">
   <img align="left" alt="Satvik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<br>
 
 
-<br>
 - 🌱 I’m currently learning web development, ethical hacking and I have even started exploring competitive coding.
 - 👯 I’m looking to collaborate on web development projects, e-sports. 
 - 🤔 I’m looking for help with GSOC(Google Summer Of Code), SEO(Search Engine Optimisation) and competitive coding too.
