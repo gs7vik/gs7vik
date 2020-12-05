@@ -6,7 +6,7 @@
 <a href="https://twitter.com/GS_7vik?s=09">
   <img align="left" alt="Satvik G S  Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
+<br>
 
 
 - 🌱 I’m currently learning web development, ethical hacking and I have even started exploring competitive coding.
