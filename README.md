@@ -4,7 +4,7 @@
   <img align="left" alt="Satvik's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/GS_7vik?s=09">
-  <img align="left" alt="Satvik G S  Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Satvik's  Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://t.me/GS_7_vik">
   <img align="left" alt="Satvik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with GSOC(Google Summer Of Code), SEO(Search Engine Optimisation) and competitive coding too.
 - 💬 Ask me about : I'm kinda "Jack of many trades, master of none" person, so happy to help.
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: Wish to meet Vladimir Putin once ಠ‿↼ .  
+- ⚡ Fun fact: Wish to meet Vladimir Putin one day ಠ‿↼ .  
 
 Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
