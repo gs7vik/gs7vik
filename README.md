@@ -10,12 +10,13 @@
   <img align="left" alt="Satvik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a><br>
 
--I’m currently learning web development.
--I’m looking to collaborate on web development projects, e-sports. 
--I’m looking for help with GSOC(Google Summer Of Code), SEO(Search Engine Optimisation).
--Ask me about : I'm kinda "Jack of many trades, master of none" person, so happy to help.
--Pronouns: he/his
--Fun fact: Wish to meet Vladimir Putin one day.  
+-   I’m currently learning web development.
+-   I’m looking to collaborate on web development projects, e-sports. 
+
+-   I’m looking for help with GSOC(Google Summer Of Code), SEO(Search Engine Optimisation).
+-   Ask me about : I'm kinda "Jack of many trades, master of none" person, so happy to help.
+-   Pronouns: he/his
+-   Fun fact: Wish to meet Vladimir Putin one day.  
 
 Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
