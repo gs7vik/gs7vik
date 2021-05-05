@@ -10,7 +10,7 @@
   <img align="left" alt="Satvik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a><br>
 
-- 🌱 I’m currently learning web development.
+-I’m currently learning web development.
 -I’m looking to collaborate on web development projects, e-sports. 
 -I’m looking for help with GSOC(Google Summer Of Code), SEO(Search Engine Optimisation).
 -Ask me about : I'm kinda "Jack of many trades, master of none" person, so happy to help.
