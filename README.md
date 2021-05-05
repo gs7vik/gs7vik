@@ -1,4 +1,4 @@
-### Hallo there, I'm Satvik G S  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello there, I'm Satvik G S  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/satvik-g-s/">
   <img align="left" alt="Satvik's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -10,12 +10,12 @@
   <img align="left" alt="Satvik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a><br>
 
-- 🌱 I’m currently learning web development, ethical hacking and I have even started exploring competitive coding.
-- 👯 I’m looking to collaborate on web development projects, e-sports. 
-- 🤔 I’m looking for help with GSOC(Google Summer Of Code), SEO(Search Engine Optimisation) and competitive coding too.
-- 💬 Ask me about : I'm kinda "Jack of many trades, master of none" person, so happy to help.
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: Wish to meet Vladimir Putin one day ಠ‿↼ .  
+- 🌱 I’m currently learning web development.
+-I’m looking to collaborate on web development projects, e-sports. 
+-I’m looking for help with GSOC(Google Summer Of Code), SEO(Search Engine Optimisation).
+-Ask me about : I'm kinda "Jack of many trades, master of none" person, so happy to help.
+-Pronouns: he/his
+-Fun fact: Wish to meet Vladimir Putin one day.  
 
 Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
