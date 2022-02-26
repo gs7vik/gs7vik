@@ -16,7 +16,7 @@
 -   I’m looking for help with GSOC(Google Summer Of Code), SEO(Search Engine Optimisation).
 -   Ask me about : I'm kinda "Jack of many trades, master of none" person, so happy to help.
 -   Pronouns: he/his
--   Fun fact: Wish to meet Vladimir Putin one day.  
+-   Fun fact: .  
 
 Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
