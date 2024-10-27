@@ -7,7 +7,7 @@
   
 
 
--   Ask me about : Kind of "Jack of many trades, master of none" person, happy to help with applied NLP(LLMs(open source & proprietarty), LLM fine-tuning, information retrieval), web developement(Flask, FastAPI), docker & Kubernetes(Azure Kubernetes Service), vector DBs(milvus, chromaDB), relational DB(mySQL).
+-   Ask me about : Kind of "Jack of many trades, master of none" person, happy to help with applied NLP(LLMs(open source & proprietary), LLM fine-tuning, information retrieval), web developement(Flask, FastAPI), docker & Kubernetes(Azure Kubernetes Service), vector DBs(milvus, chromaDB), relational DB(mySQL).
 -   Pronouns: he/his
     
 Hobbies:
