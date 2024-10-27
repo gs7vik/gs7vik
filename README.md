@@ -2,18 +2,15 @@
 
 
 
--   Currently into NLP.
+-   Currently building NLP(LLM) based applications at my org.
+-   Learning deployment and classical ML in my free time.
   
 
 
--   Ask me about : Kind of "Jack of many trades, master of none" person, happy to help.
+-   Ask me about : Kind of "Jack of many trades, master of none" person, happy to help with applied NLP(LLMs(open source & proprietarty), LLM fine-tuning, information retrieval), web developement(Flask, FastAPI), docker & Kubernetes(Azure Kubernetes Service), vector DBs(milvus, chromaDB), relational DB(mySQL).
 -   Pronouns: he/his
     
+Hobbies:
 
-Languages and Tools:
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
+- Play guitar, badminton, table tennis, valorant occasionally.
+  
