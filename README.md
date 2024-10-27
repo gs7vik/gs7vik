@@ -2,7 +2,7 @@
 
 
 
--   Currently building NLP(LLM) based applications at my org.
+-   Currently building NLP(LLM) based applications at my org from 2 years.
 -   Learning deployment and classical ML in my free time.
   
 
