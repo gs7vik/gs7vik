@@ -2,7 +2,7 @@
 
 
 
--   Currently building NLP(LLM) based applications at my org from 2 years.
+-   Developing NLP applications with large language models (LLMs) for over one and half years, focusing on RAG and text-to-SQL applications.
 -   Learning deployment and classical ML in my free time.
   
 
