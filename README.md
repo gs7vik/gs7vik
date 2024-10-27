@@ -10,6 +10,4 @@
 
 **Pronouns:** he/him
 
-**Hobbies:**
-
-Playing guitar, badminton, table tennis, and Valorant occasionally.
+**Hobbies:** Playing guitar, badminton, table tennis, and Valorant occasionally.
