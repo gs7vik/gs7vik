@@ -12,4 +12,4 @@
 
 **Hobbies:**
 
-Playing guitar, badminton, table tennis, and the occasional game of Valorant.
+Playing guitar, badminton, table tennis, and Valorant occasionally.
