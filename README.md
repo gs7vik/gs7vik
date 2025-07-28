@@ -2,7 +2,7 @@
 
 
 
-**Experience:** I've been developing NLP applications with large language models (LLMs) for over 1.5 years, with a focus on Retrieval-Augmented Generation (RAG) and text-to-SQL applications.
+**Experience:** I've been developing NLP applications with large language models (LLMs) for over 2 years, with a focus on Retrieval-Augmented Generation (RAG) and text-to-SQL applications.
 
 **Current Learning:** Exploring deployment techniques and classical machine learning in my free time.
 
